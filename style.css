@@ -1,0 +1,29 @@
+body {
+    background: black;
+    font: normal 25pt Arial;
+    padding: 10%;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section{
+    background: rgb(41, 41, 41);
+    width: 100%;
+    box-shadow: 2px 2px 15px; 
+}
+div{
+    text-align: center;
+    font-size: 15px;
+    font-family: "Courier";
+    padding: 15px;
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+    
+}
