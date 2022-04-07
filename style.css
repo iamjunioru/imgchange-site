@@ -13,6 +13,7 @@ section{
     background: rgb(41, 41, 41);
     width: 100%;
     box-shadow: 2px 2px 15px; 
+    color: white;
 }
 div{
     text-align: center;
